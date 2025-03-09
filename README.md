@@ -30,8 +30,8 @@ National Hockey League (NHL) Analysis
       * Players who shine in special teams and leadership.
 
 **IV. Data Architecture Diagram:**
-
-  <img width="550" alt="DataArchitectureDiagram_ETL" src="https://github.com/user-attachments/assets/7e9ae6e7-3a11-4331-8931-ade1b7742af1" />
+  
+      <img width="550" alt="DataArchitectureDiagram_ETL" src="https://github.com/user-attachments/assets/7e9ae6e7-3a11-4331-8931-ade1b7742af1" />
 
 **V. ETL Pipeline:**
 
@@ -50,7 +50,7 @@ National Hockey League (NHL) Analysis
 
         Entity-Relationship Diagram (ERD):
 
-          ![NHL_ERD](https://github.com/user-attachments/assets/77e879b4-75ed-46e5-b517-173e67576652)
+        
 
         Loaded cleaned data into Azure SQL Database Tables using Python and SQL Server Management Studio (SSMS) tool.
 
@@ -69,7 +69,8 @@ National Hockey League (NHL) Analysis
           
     NHL Data Analysis & Findings:
 
-      <img width="422" alt="Analysis" src="https://github.com/user-attachments/assets/77ab3296-7b91-46a3-beec-7609816ebb61" />
+      <img width="422" alt="Analysis" src="https://github.com/user-attachments/assets/0ae36139-226a-4ee9-88fc-929ee447e81a" />
+
 
 **VII. Conclusion:**
 
