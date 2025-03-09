@@ -22,12 +22,14 @@ National Hockey League (NHL) Analysis
 **III. Our Problem Statement:**
 
   Building an NHL All-Star team:
-    The goal is to select players who excel in their roles and contribute to overall team balance. 
-
-      * Forwards with strong offensive stats
-      * Two-way defensemen
-      * Goalies with high save percentages
+  
+    The goal is to select players who excel in their roles and contribute to overall team balance.
+    
+      * Forwards with strong offensive stats.
+      * Two-way defensemen.
+      * Goalies with high save percentages.
       * Players who shine in special teams and leadership.
+
 
 **IV. Data Architecture Diagram:**
   
@@ -50,7 +52,8 @@ National Hockey League (NHL) Analysis
 
         Entity-Relationship Diagram (ERD):
 
-        
+  ![NHL_ERD](https://github.com/user-attachments/assets/b5bbc15f-90e6-4066-8a29-1b11bdf58fcc)
+
 
         Loaded cleaned data into Azure SQL Database Tables using Python and SQL Server Management Studio (SSMS) tool.
 
@@ -69,7 +72,8 @@ National Hockey League (NHL) Analysis
           
     NHL Data Analysis & Findings:
 
-      <img width="422" alt="Analysis" src="https://github.com/user-attachments/assets/0ae36139-226a-4ee9-88fc-929ee447e81a" />
+<img width="422" alt="Analysis" src="https://github.com/user-attachments/assets/0ae36139-226a-4ee9-88fc-929ee447e81a" />
+
 
 
 **VII. Conclusion:**
