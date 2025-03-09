@@ -1,0 +1,2 @@
+ALTER TABLE game_plays
+ALTER COLUMN game_id VARCHAR(12);

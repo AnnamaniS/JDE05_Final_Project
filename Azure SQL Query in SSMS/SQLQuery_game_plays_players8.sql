@@ -1,0 +1,1 @@
+ALTER TABLE game_plays_players ADD game_plays_players_id INT IDENTITY(1,1);

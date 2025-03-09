@@ -1,0 +1,1 @@
+SELECT * INTO game_skater_stats_BKP FROM game_skater_stats;

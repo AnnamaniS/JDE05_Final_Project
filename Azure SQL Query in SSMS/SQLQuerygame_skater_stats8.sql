@@ -1,0 +1,1 @@
+ALTER TABLE game_skater_stats ADD CONSTRAINT PK_game_skater_stats PRIMARY KEY (game_skater_stats_id);

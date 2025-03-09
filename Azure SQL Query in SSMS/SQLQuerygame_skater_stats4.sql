@@ -1,0 +1,1 @@
+ALTER TABLE game_skater_stats ADD CONSTRAINT FK_game_skater_stats_game FOREIGN KEY (game_id) REFERENCES game (game_id);

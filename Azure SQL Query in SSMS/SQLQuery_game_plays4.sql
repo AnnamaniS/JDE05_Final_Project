@@ -1,0 +1,1 @@
+ALTER TABLE game_plays ALTER COLUMN play_id VARCHAR(50) NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE game_goalie_stats ADD game_goalie_stats_id INT IDENTITY(1,1);

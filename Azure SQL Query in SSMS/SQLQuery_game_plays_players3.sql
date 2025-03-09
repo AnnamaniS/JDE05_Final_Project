@@ -1,0 +1,1 @@
+ALTER TABLE game_plays_players ADD CONSTRAINT FK_game_plays_players_game FOREIGN KEY (game_id) REFERENCES game (game_id);

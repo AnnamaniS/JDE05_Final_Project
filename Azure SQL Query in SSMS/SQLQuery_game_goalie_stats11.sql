@@ -1,0 +1,1 @@
+SELECT * INTO game_goalie_stats_BKP FROM game_goalie_stats;

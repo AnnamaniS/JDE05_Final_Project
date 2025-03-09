@@ -1,0 +1,1 @@
+ALTER TABLE game_plays ADD CONSTRAINT PK_game_plays PRIMARY KEY (play_id);
