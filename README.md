@@ -14,7 +14,8 @@ National Hockey League (NHL) Analysis
 
   The "NHL Game Data" dataset on Kaggle provides comprehensive information on National Hockey League (NHL) games over the past six years.
 
-  It includes official metrics for each game: 
+  It includes official metrics for each game:
+  
     * games
     * teams
     * players, and plays
