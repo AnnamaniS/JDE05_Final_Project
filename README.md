@@ -31,7 +31,7 @@ National Hockey League (NHL) Analysis
 
 **IV. Data Architecture Diagram:**
   
-      <img width="550" alt="DataArchitectureDiagram_ETL" src="https://github.com/user-attachments/assets/7e9ae6e7-3a11-4331-8931-ade1b7742af1" />
+<img width="550" alt="DataArchitectureDiagram_ETL" src="https://github.com/user-attachments/assets/7e9ae6e7-3a11-4331-8931-ade1b7742af1" />
 
 **V. ETL Pipeline:**
 
