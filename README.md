@@ -1,5 +1,6 @@
 # JDE05_Final_Project
-National Hockey League (NHL) Analysis
+National Hockey League (NHL) Analysis 
+ETL Pipeline and Analysis
 
 **I. Introduction:**
 
